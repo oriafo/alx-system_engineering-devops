@@ -1,2 +1,2 @@
 #!/bin/bash
-tr -d "filename" 
+echo | tr -d  
