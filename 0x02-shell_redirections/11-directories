@@ -1,7 +1,2 @@
 #!/bin/bash
 find . -mindepth 1 -type d | wc -l
-
-#For find -mindepth means total number recusive in directories
-#-maxdepth means total number recusive in directories
-#-type d means directory
-#And for wc -l means count the lines of the input
