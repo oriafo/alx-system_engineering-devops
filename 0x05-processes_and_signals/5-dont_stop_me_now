@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 #stop process using kill command
 
-PID=`ps -ef | grep 4-to_infinity_and_beyond`
-kill $PID
+kill $`ps -ef | grep 4-to_infinity_and_beyond`
+
