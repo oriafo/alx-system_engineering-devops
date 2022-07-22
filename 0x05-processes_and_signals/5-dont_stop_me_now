@@ -2,4 +2,3 @@
 #stop process using kill command
 
 kill $`ps -ef | grep 4-to_infinity_and_beyond`
-
